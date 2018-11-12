@@ -5,5 +5,9 @@ Stack- Stack is a linear data structure which works followig way,existing item i
        
        MyStack-  creats and empty stack 
        Push(item)__ adds an item to the top
-       isEmpty  -  cheks if the stack is empty.
+       Pop(item) - Removing an element from the Stack
+       isEmpty  -  Returns True if the stack is empty or False otherwise
+       
+Complexity -  O(1) for push and pop methods      
+       
        
